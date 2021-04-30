@@ -1,0 +1,62 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.row-layout {
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  position: sticky;
+  padding: 16px 32px;
+  min-height: 50px;
+  background-color: var(--igx-surface-500);
+  border-color: var(--igx-primary-800);
+  border-width: 0px 0px 3px 0px;
+  border-style: solid;
+  z-index: 1;
+  height: max-content;
+  min-width: 50px;
+  align-items: center;
+}
+.row-layout_1 {
+  position: relative;
+  min-width: 50px;
+  align-items: center;
+}
+.row-layout_2 {
+  width: max-content;
+  height: max-content;
+  align-items: center;
+}
+.title {
+  margin: 0 16px 0 0;
+  min-width: min-content;
+  height: max-content;
+  flex: 0 0 auto;
+}
+.icon {
+  width: max-content;
+  height: max-content;
+}
+.avatar {
+  flex: 0 0 auto;
+}
+.icon-button {
+  margin: 0 8px 0 0;
+  flex: 0 0 auto;
+}
+.button {
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.views-container {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  flex: 1 1 auto;
+}
+.row {
+  display: flex;
+}
