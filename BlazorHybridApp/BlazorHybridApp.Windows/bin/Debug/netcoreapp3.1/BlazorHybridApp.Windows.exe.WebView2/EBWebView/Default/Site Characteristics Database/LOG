@@ -1,2 +1,3 @@
-2021/04/30-15:55:22.919 6ef4 Creating DB C:\TEMP\Coin\BlazorHybridApp\BlazorHybridApp.Windows\bin\Debug\netcoreapp3.1\BlazorHybridApp.Windows.exe.WebView2\EBWebView\Default\Site Characteristics Database since it was missing.
-2021/04/30-15:55:22.931 6ef4 Reusing MANIFEST C:\TEMP\Coin\BlazorHybridApp\BlazorHybridApp.Windows\bin\Debug\netcoreapp3.1\BlazorHybridApp.Windows.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2021/04/30-16:24:37.688 32e8 Reusing MANIFEST C:\TEMP\Coin\BlazorHybridApp\BlazorHybridApp.Windows\bin\Debug\netcoreapp3.1\BlazorHybridApp.Windows.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2021/04/30-16:24:37.689 32e8 Recovering log #3
+2021/04/30-16:24:37.689 32e8 Reusing old log C:\TEMP\Coin\BlazorHybridApp\BlazorHybridApp.Windows\bin\Debug\netcoreapp3.1\BlazorHybridApp.Windows.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log 
