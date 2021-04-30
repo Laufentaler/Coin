@@ -1,0 +1,26 @@
+<div class="row-layout row">
+  <div class="row-layout_1 row">
+    <h6 class="title">Rapid Fission Inc.</h6>
+    <button igxButton="flat" [disabled]="false" routerLink="/home" class="button">
+      <span>Home</span>
+    </button>
+    <button igxButton="flat" [disabled]="false" routerLink="/my-info" class="button">
+      <span>My Info</span>
+    </button>
+    <button igxButton="flat" [disabled]="true" class="button">
+      <span>People</span>
+    </button>
+    <button igxButton="flat" [disabled]="true" class="button">
+      <span>My Files</span>
+    </button>
+  </div>
+  <div class="row-layout_2 row">
+    <button igxButton="icon" type="icon" [disabled]="false" class="icon-button">
+      <igx-icon class="icon">notifications</igx-icon>
+    </button>
+    <igx-avatar [roundShape]="true" src="https://d3cg6cexo8t5ug.cloudfront.net/avatars/avatar6.png" size="small" class="avatar"></igx-avatar>
+  </div>
+</div>
+<div class="views-container">
+  <router-outlet></router-outlet>
+</div>

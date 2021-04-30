@@ -1,0 +1,233 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.row-layout {
+  justify-content: space-between;
+  padding: 4px 16px;
+  flex-wrap: wrap;
+  background-color: var(--igx-grays-200);
+  margin: 0 0 8px;
+  align-items: center;
+  height: max-content;
+}
+.row-layout_1 {
+  height: 144px;
+  background-color: var(--igx-primary-700);
+  justify-content: center;
+  align-items: stretch;
+}
+.row-layout_2 {
+  background-color: var(--igx-grays-100);
+  flex: 1 0 auto;
+  justify-content: center;
+  min-height: 50px;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout {
+  width: 300px;
+  margin: -32px 16px 32px 0;
+  padding: 0 0 16px;
+  border-width: 1px 1px 1px 1px;
+  background-color: var(--igx-surface-500);
+  border-color: var(--igx-grays-200);
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_3 {
+  min-height: max-content;
+  padding: 8px;
+  border-color: var(--igx-grays-300);
+  border-width: 1px 0px 0px 0px;
+  justify-content: center;
+  background-color: var(--igx-surface-500);
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout_1 {
+  margin: -32px 0 32px;
+  flex: 1 0 auto;
+  border-width: 1px 1px 1px 1px;
+  background-color: var(--igx-surface-500);
+  border-color: var(--igx-grays-200);
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_4 {
+  padding: 16px;
+  background-color: var(--igx-grays-200);
+  margin: 0 0 32px;
+  height: max-content;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout_2 {
+  border-width: 0px 1px 0px 0px;
+  flex: 1 1 auto;
+  border-color: var(--igx-grays-200);
+  border-style: solid;
+  align-items: center;
+  height: max-content;
+  min-height: 50px;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_5 {
+  width: 960px;
+  min-height: 50px;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_6 {
+  margin: 0 0 32px;
+  padding: 0 16px;
+  align-items: center;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_7 {
+  margin: 0 0 8px;
+  height: max-content;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_8 {
+  padding: 0 16px;
+  border-width: 1px 0px 0px 0px;
+  margin: 0 0 16px;
+  border-color: var(--igx-grays-200);
+  border-style: solid;
+  align-items: center;
+  height: max-content;
+}
+.column-layout_3 {
+  overflow: auto;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout_4 {
+  flex: 1 1 auto;
+  min-height: 50px;
+  position: relative;
+  min-width: 50px;
+}
+.layout {
+  margin: 0 0 16px;
+  align-items: stretch;
+}
+.column-layout_5 {
+  background-color: var(--igx-surface-500);
+}
+.layout_1 {
+  align-items: center;
+}
+.layout_2 {
+  height: max-content;
+}
+.listscroll {
+  min-height: 50px;
+}
+.layout_3 {
+  align-items: stretch;
+}
+.row-layout_9 {
+  position: relative;
+  min-width: 50px;
+}
+.title {
+  margin: 0 16px 8px;
+  height: max-content;
+}
+.icon {
+  width: 36px;
+  height: 36px;
+  font-size: 36px;
+  margin: 0 16px 0 0;
+  flex: 0 0 auto;
+}
+.title_1 {
+  color: var(--igx-surface-500);
+  min-width: min-content;
+  height: max-content;
+  flex: 0 0 auto;
+}
+.text {
+  color: var(--igx-grays-500);
+  min-width: min-content;
+  height: max-content;
+  flex: 0 0 auto;
+}
+.avatar {
+  margin: 0 16px 0 0;
+}
+.title_2 {
+  margin: 0 8px 0 0;
+  width: max-content;
+  height: max-content;
+}
+.title_3 {
+  color: var(--igx-grays-900);
+  height: max-content;
+}
+.content {
+  margin: 0 0 8px;
+}
+.content_1 {
+  width: max-content;
+  height: max-content;
+}
+.text_1 {
+  min-width: min-content;
+  height: max-content;
+  flex: 0 0 auto;
+}
+.icon_1 {
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+}
+.content_2 {
+  height: max-content;
+}
+.content_3 {
+  flex: 0 0 auto;
+}
+.button {
+  margin: 0 8px 0 0;
+  height: max-content;
+  min-width: min-content;
+  max-width: 100%;
+  flex: 1 0 auto;
+}
+.icon-button {
+  flex: 0 0 auto;
+}
+.list {
+  height: auto;
+  min-width: max-content;
+  flex: 0 0 auto;
+}
+.list-item {
+  min-width: 0;
+  min-height: 0;
+  flex: 0 0 auto;
+}
+.row {
+  display: flex;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,226 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.row-layout {
+  height: 144px;
+  background-color: var(--igx-primary-700);
+  justify-content: center;
+  align-items: stretch;
+}
+.row-layout_1 {
+  background-color: var(--igx-grays-100);
+  flex: 1 0 auto;
+  overflow: auto;
+  justify-content: center;
+  min-height: 50px;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_2 {
+  margin: 0 32px 0 0;
+  width: 200px;
+  justify-content: center;
+  min-height: 50px;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout {
+  margin: 0 16px 32px 0;
+  width: 200px;
+  border-width: 1px 1px 1px 1px;
+  background-color: var(--igx-surface-500);
+  border-color: var(--igx-grays-200);
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_3 {
+  border-width: 1px 0px 0px 0px;
+  padding: 8px;
+  min-height: max-content;
+  border-color: var(--igx-grays-300);
+  background-color: var(--igx-surface-500);
+  justify-content: center;
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_4 {
+  width: 960px;
+  min-height: 50px;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_5 {
+  min-height: max-content;
+  align-items: stretch;
+  min-width: 50px;
+}
+.column-layout_1 {
+  border-color: var(--igx-grays-300);
+  border-width: 0px 0px 1px 0px;
+  padding: 16px;
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout_2 {
+  border-width: 1px 1px 1px 1px;
+  background-color: var(--igx-surface-500);
+  margin: 0 0 32px;
+  flex: 1 1 auto;
+  border-color: var(--igx-grays-200);
+  padding: 16px;
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_6 {
+  align-items: center;
+}
+.row-layout_7 {
+  margin: 0 0 32px;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout_3 {
+  flex: 1 1 auto;
+  min-height: 50px;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.column-layout_4 {
+  border-width: 0px 0px 1px 0px;
+  border-color: var(--igx-grays-200);
+  padding: 16px;
+  border-style: solid;
+  align-items: stretch;
+  position: relative;
+  min-width: 50px;
+}
+.row-layout_8 {
+  height: max-content;
+  margin: 0 0 8px;
+  min-width: 50px;
+}
+.layout {
+  margin: 0 0 16px;
+}
+.row-layout_9 {
+  align-items: stretch;
+}
+.row-layout_10 {
+  position: relative;
+}
+.row-layout_11 {
+  min-width: 50px;
+}
+.image {
+  width: 112px;
+  height: 112px;
+  min-width: 0;
+  min-height: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  flex: 0 0 auto;
+}
+.icon {
+  width: 24px;
+  height: 24px;
+  font-size: 24px;
+  margin: 0 8px 0 0;
+  flex: 0 0 auto;
+}
+.text {
+  color: var(--igx-grays-500);
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.title {
+  color: var(--igx-surface-500);
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.title_1 {
+  color: var(--igx-primary-500);
+  margin: 0 0 8px;
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.title_2 {
+  margin: 0 0 16px;
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.content {
+  margin: 0 8px 0 0;
+  flex: 0 0 auto;
+}
+.icon_1 {
+  width: 18px;
+  height: 18px;
+  font-size: 18px;
+}
+.content_1 {
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.icon_2 {
+  flex: 0 0 auto;
+}
+.input-group {
+  width: 484px;
+  margin: 0 8px 0 0;
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.input-group_1 {
+  width: 97px;
+  margin: 0 8px 0 0;
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.input-group_2 {
+  width: 216px;
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.user-input {
+  margin: 0 8px 0 0;
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.user-input_1 {
+  height: max-content;
+  min-width: min-content;
+  flex: 0 0 auto;
+}
+.select-item {
+  flex: 0 0 auto;
+}
+.row {
+  display: flex;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
