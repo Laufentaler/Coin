@@ -1,0 +1,62 @@
+import { Base, INotifyPropertyChanged, PropertyChangedEventArgs, Type } from "./type";
+import { IDataSourceExecutionContext } from "./IDataSourceExecutionContext";
+import { IPageCandidatesSink } from "./IPageCandidatesSink";
+import { SectionMap } from "./SectionMap";
+/**
+ * @hidden
+ */
+export declare class PagePredictionEngine extends Base implements INotifyPropertyChanged {
+    static $t: Type;
+    private a;
+    b: IDataSourceExecutionContext;
+    private s;
+    aa: number;
+    private u;
+    ae: number;
+    private x;
+    ag: number;
+    private t;
+    ab: number;
+    static readonly aq: string;
+    private y;
+    ah: number;
+    private r;
+    z: number;
+    private v;
+    af: number;
+    private d;
+    e: IPageCandidatesSink;
+    f: SectionMap;
+    private w;
+    protected ay(a: string, b: any, c: any): void;
+    propertyChanged: (sender: any, e: PropertyChangedEventArgs) => void;
+    protected az(a: string, b: any, c: any): void;
+    private a2;
+    private ax;
+    private i;
+    au(): void;
+    private av;
+    private a4;
+    private a3;
+    private h;
+    private as;
+    private g;
+    private p;
+    private a6;
+    private o;
+    private a0;
+    private j;
+    private ar;
+    a1(a: number): void;
+    private n;
+    private m;
+    private k;
+    private l;
+    private ac;
+    private ad;
+    private a5;
+    private c;
+    private q;
+    private at;
+    protected aw(): void;
+}
