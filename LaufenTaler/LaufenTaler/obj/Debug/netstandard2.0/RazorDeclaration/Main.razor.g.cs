@@ -12,22 +12,22 @@ namespace LaufenTaler
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
-#line 1 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 1 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Microsoft.MobileBlazorBindings;
 
 #line default
 #line hidden
-#line 2 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 2 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Microsoft.MobileBlazorBindings.Elements;
 
 #line default
 #line hidden
-#line 3 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 3 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Xamarin.Essentials;
 
 #line default
 #line hidden
-#line 4 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 4 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Xamarin.Forms;
 
 #line default
@@ -39,7 +39,7 @@ using Xamarin.Forms;
         {
         }
         #pragma warning restore 1998
-#line 19 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\Main.razor"
+#line 19 "C:\lt\Coin\LaufenTaler\LaufenTaler\Main.razor"
        
     protected override void OnInitialized()
     {

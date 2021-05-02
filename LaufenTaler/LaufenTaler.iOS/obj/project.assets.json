@@ -4435,18 +4435,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin.borerm\\.nuget\\packages\\": {},
+    "C:\\Users\\admin.oserr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler.iOS\\LaufenTaler.iOS.csproj",
+      "projectUniqueName": "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler.iOS\\LaufenTaler.iOS.csproj",
       "projectName": "LaufenTaler.iOS",
-      "projectPath": "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler.iOS\\LaufenTaler.iOS.csproj",
-      "packagesPath": "C:\\Users\\admin.borerm\\.nuget\\packages\\",
-      "outputPath": "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler.iOS\\obj\\",
+      "projectPath": "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler.iOS\\LaufenTaler.iOS.csproj",
+      "packagesPath": "C:\\Users\\admin.oserr\\.nuget\\packages\\",
+      "outputPath": "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4454,7 +4454,7 @@
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin.borerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin.oserr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -4463,14 +4463,15 @@
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/osisa/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler\\LaufenTaler.csproj": {
-              "projectPath": "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler\\LaufenTaler.csproj"
+            "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler\\LaufenTaler.csproj": {
+              "projectPath": "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler\\LaufenTaler.csproj"
             }
           }
         }

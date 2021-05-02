@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = LaufenTalerApp
+build_property.RootNamespace = LaufenTalerApp
+build_property.ProjectDir = C:\lt\Coin\LaufenTaler\LaufenTalerApp\
+build_property.RazorLangVersion = 5.0
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\lt\Coin\LaufenTaler\LaufenTalerApp
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog = 
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = App.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\App.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\Counter.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\Pages\Counter.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\FetchData.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\Pages\FetchData.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Pages\Index.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\Pages\Index.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\SurveyPrompt.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\Shared\SurveyPrompt.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = _Imports.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\_Imports.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\MainLayout.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\Shared\MainLayout.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = b-ug9rm4886f
+
+[c:/lt/Coin/LaufenTaler/LaufenTalerApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Shared\NavMenu.razor
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\Razor\Shared\NavMenu.razor.g.cs
+build_metadata.AdditionalFiles.CssScope = b-pkfag95w2m

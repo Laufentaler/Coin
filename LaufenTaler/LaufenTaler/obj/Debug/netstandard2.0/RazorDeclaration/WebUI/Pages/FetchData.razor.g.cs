@@ -12,62 +12,62 @@ namespace LaufenTaler.WebUI.Pages
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
-#line 1 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 1 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Microsoft.MobileBlazorBindings;
 
 #line default
 #line hidden
-#line 2 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 2 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Microsoft.MobileBlazorBindings.Elements;
 
 #line default
 #line hidden
-#line 3 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 3 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Xamarin.Essentials;
 
 #line default
 #line hidden
-#line 4 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
+#line 4 "C:\lt\Coin\LaufenTaler\LaufenTaler\_Imports.razor"
 using Xamarin.Forms;
 
 #line default
 #line hidden
-#line 1 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
+#line 1 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
-#line 2 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
+#line 2 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
-#line 3 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
+#line 3 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
-#line 4 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
+#line 4 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
-#line 5 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
+#line 5 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
-#line 6 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
+#line 6 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
-#line 7 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
+#line 7 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\_Imports.razor"
 using LaufenTaler.WebUI.Shared;
 
 #line default
 #line hidden
-#line 2 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\Pages\FetchData.razor"
+#line 2 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\Pages\FetchData.razor"
 using System.Text.Json;
 
 #line default
@@ -80,7 +80,7 @@ using System.Text.Json;
         {
         }
         #pragma warning restore 1998
-#line 38 "C:\TEMP\Coin\LaufenTaler\LaufenTaler\WebUI\Pages\FetchData.razor"
+#line 38 "C:\lt\Coin\LaufenTaler\LaufenTaler\WebUI\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
 

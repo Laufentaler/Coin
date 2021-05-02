@@ -5854,27 +5854,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin.borerm\\.nuget\\packages\\": {},
+    "C:\\Users\\admin.oserr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler.Tests\\LaufenTaler.Tests.csproj",
+      "projectUniqueName": "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler.Tests\\LaufenTaler.Tests.csproj",
       "projectName": "LaufenTaler.Tests",
-      "projectPath": "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler.Tests\\LaufenTaler.Tests.csproj",
-      "packagesPath": "C:\\Users\\admin.borerm\\.nuget\\packages\\",
-      "outputPath": "C:\\TEMP\\Coin\\LaufenTaler\\LaufenTaler.Tests\\obj\\",
+      "projectPath": "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler.Tests\\LaufenTaler.Tests.csproj",
+      "packagesPath": "C:\\Users\\admin.oserr\\.nuget\\packages\\",
+      "outputPath": "C:\\lt\\Coin\\LaufenTaler\\LaufenTaler.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin.borerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin.oserr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -5883,8 +5881,9 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/osisa/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -5938,7 +5937,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300-preview.21180.15\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
       }
     }
   }
