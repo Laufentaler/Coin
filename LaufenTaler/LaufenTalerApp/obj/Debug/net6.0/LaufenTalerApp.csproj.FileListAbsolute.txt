@@ -636,7 +636,6 @@ C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\build-gz\Ee87Fhzq.gz
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\build-gz\TaGS6nbt.gz
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\build-gz\icyc22UT.gz
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\build-gz\7F7DLSOk.gz
-C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\build-gz\bfNr2QhL.gz
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\staticwebassets\LaufenTalerApp.StaticWebAssets.Manifest.cache
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\staticwebassets\LaufenTalerApp.StaticWebAssets.xml
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
@@ -649,3 +648,4 @@ C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\ref\LaufenTalerApp.dll
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\LaufenTalerApp.pdb
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\serviceworkers\wwwroot\service-worker.js
 C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\service-worker-assets.js
+C:\lt\Coin\LaufenTaler\LaufenTalerApp\obj\Debug\net6.0\build-gz\bfNr2QhL.gz

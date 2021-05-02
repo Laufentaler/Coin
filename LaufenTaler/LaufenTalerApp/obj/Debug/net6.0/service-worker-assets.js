@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-jGx0gCmg+kiTLk5yQUT+AdGUbjnE4LlHbeGJC+morpg=",
+      "hash": "sha256-pjz\/z7HK7P7cHEMiXOljATvOjAdEW\/nf4uPPYhXWMQQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -833,11 +833,11 @@
       "url": "_framework\/dotnet.6.0.0-preview.3.21201.4.js"
     },
     {
-      "hash": "sha256-QjBzXIRON7kfGEjgY\/5pIL3cvBiyof5QmEa3y4nnMPk=",
+      "hash": "sha256-u5CDSaZKhTxJ7SIkjU\/YEzotsLQfVu08MWe4EmVxFS0=",
       "url": "_framework\/LaufenTalerApp.dll"
     },
     {
-      "hash": "sha256-1aREjN5gqSRjCbQkL4WmCtn6aeBUXWjK\/UCT4uJ46kU=",
+      "hash": "sha256-kDuD\/42O4o+KrwTA\/2806xFcu2M6lTyP7iCm669m1yA=",
       "url": "_framework\/LaufenTalerApp.pdb"
     },
     {
@@ -1757,5 +1757,5 @@
       "url": "LaufenTalerApp.bundle.scp.css"
     }
   ],
-  "version": "mzq\/dfHE"
+  "version": "+6ywEaHR"
 };

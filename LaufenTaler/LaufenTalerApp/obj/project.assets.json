@@ -1356,11 +1356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\lt\\Coin\\LaufenTaler\\LaufenTalerApp\\LaufenTalerApp.csproj",
+      "projectUniqueName": "C:\\lt\\coin\\laufentaler\\laufentalerapp\\LaufenTalerApp.csproj",
       "projectName": "LaufenTalerApp",
-      "projectPath": "C:\\lt\\Coin\\LaufenTaler\\LaufenTalerApp\\LaufenTalerApp.csproj",
+      "projectPath": "C:\\lt\\coin\\laufentaler\\laufentalerapp\\LaufenTalerApp.csproj",
       "packagesPath": "C:\\Users\\admin.oserr\\.nuget\\packages\\",
-      "outputPath": "C:\\lt\\Coin\\LaufenTaler\\LaufenTalerApp\\obj\\",
+      "outputPath": "C:\\lt\\coin\\laufentaler\\laufentalerapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
