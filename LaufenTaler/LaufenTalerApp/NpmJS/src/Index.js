@@ -9,3 +9,8 @@ ModuleManager.register(
     IgcRadialGaugeCoreModule,
     IgcRadialGaugeModule
 );
+
+window.updateValue= function(value) {
+    var rg = document.getElementById("rg");
+    rg.value = value;
+}
